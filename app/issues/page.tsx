@@ -11,4 +11,4 @@ const IssuesPage = () => {
   )
 }
 
-export default IssuesPage
+export default IssuesPage;
